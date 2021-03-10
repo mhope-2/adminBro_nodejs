@@ -1,12 +1,12 @@
 #### adminBro Express installation
-npm install admin-bro @admin-bro/express
-npm install express express-formidable
+npm install admin-bro @admin-bro/express 
+npm install express express-formidable 
 
-#### adminBro Mongoose installation
-npm install @admin-bro/mongoose
+#### adminBro Mongoose installation 
+npm install @admin-bro/mongoose 
 
-#### Starting server
-node index.js
+#### Starting server 
+node index.js 
 
-#### adminBro Docs
-https://adminbro.com/tutorial-installation-instructions.html
+#### adminBro Docs 
+https://adminbro.com/tutorial-installation-instructions.html 
