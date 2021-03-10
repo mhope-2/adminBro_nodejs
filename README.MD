@@ -7,3 +7,6 @@ npm install @admin-bro/mongoose
 
 #### Starting server
 node index.js
+
+#### adminBro Docs
+https://adminbro.com/tutorial-installation-instructions.html
