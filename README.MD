@@ -1,5 +1,5 @@
-#### adminBro Express installation <br>
-npm install admin-bro @admin-bro/express 
+#### adminBro Express installation 
+npm install admin-bro @admin-bro/express <br>
 npm install express express-formidable 
 
 #### adminBro Mongoose installation 
